@@ -23,8 +23,8 @@ target = "static/static"
 
 [languages]
   [languages.en]
-    title = "Hello Friend"
-    subtitle = "A simple theme for Hugo"
+    title = "Ocoretech Infosec Blogs"
+    subtitle = "Welcome to Ocoretech"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
@@ -40,7 +40,7 @@ target = "static/static"
     # lastModDisplay = ""
 
     [languages.en.params.logo]
-      logoText = "hello friend"
+      logoText = "Welcome to Ocoretech"
       logoHomeLink = "/"
     # or
     #
