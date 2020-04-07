@@ -2,7 +2,7 @@
 title = "Hello Friend3"
 date = "1986-09-17"
 author = "Elliot"
-cover = "img/hello.jpg"
+cover = "static/images/hello.jpg"
 description = "\"Hello, friend?\" That's lame. Maybe I should give you a name?"
 +++
 

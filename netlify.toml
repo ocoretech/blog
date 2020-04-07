@@ -12,7 +12,3 @@
   HUGO_VERSION = "0.57.0"
 
 
-[module]
-[[module.mounts]]
-source = "static"
-target = "static/static"

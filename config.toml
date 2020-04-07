@@ -16,6 +16,11 @@ paginate = 5
   # Show reading time in minutes for posts
   showReadingTime = false
 
+[module]
+[[module.mounts]]
+source = "static"
+target = "static/static"
+
 [languages]
   [languages.en]
     title = "Hello Friend"
